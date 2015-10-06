@@ -1,0 +1,74 @@
+span a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: arial;
+  margin-left: 27px;
+  margin-top: 15px;
+  float:left;
+}
+.box1 {
+background-color: #550106;
+height: 50px;
+width: 624px;
+}
+.box2 {
+height:385px;
+background-color: #EA261B;
+margin-right: 356px;
+border-bottom: 64px;
+}
+.box3 {
+  height:225px;
+  background-color: #550106;
+  margin-right: 355px;
+  margin-top: 64px;
+  width: 605px;
+  margin-left: 10px;
+  margin-bottom: 32px;
+  display: inline-block;
+}
+.box4 {
+  background-color: #550106;
+  height:225px;
+  margin-right: 355px;
+  margin-top: 64px;
+  width: 605px;
+  margin-left: 10px;
+  margin-bottom: 32px;
+}
+.box5 {
+  background-color: #550106;
+  height:225px;
+  margin-right: 355px;
+  margin-top: 64px;
+  width: 605px;
+  margin-left: 10px;
+  margin-bottom: 32px;
+  display: inline-block;
+}
+.box6 {
+  background-color: #550106;
+  height:225px;
+  margin-right: 355px;
+  margin-top: 64px;
+  width: 605px;
+  margin-left: 10px;
+  margin-bottom: 32px;
+}
+.box7 {
+  height: 917px;
+  background-color: #230001;
+  width: 625px;
+}
+#inner {
+  height:622px;
+  background-color: #D87F7E;
+  margin: 140px 32px 70px 32px;
+  width: 575px;
+}
+.box9 {
+  background-color: #230001;
+  height:206px;
+  width:624px;
+}
